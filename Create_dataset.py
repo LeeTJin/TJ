@@ -1,4 +1,5 @@
-'''c++
+'''python
+
 # 사용할 라이브러리 import
 import cv2
 import numpy as np
