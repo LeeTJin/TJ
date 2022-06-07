@@ -1,4 +1,3 @@
-'''python
 
 # 사용할 라이브러리 import
 import cv2
@@ -121,4 +120,3 @@ with mp_holistic.Holistic(min_detection_confidence=0.5, min_tracking_confidence=
                     
     cap.release()
     cv2.destroyAllWindows()
-    '''
